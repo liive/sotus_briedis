@@ -1,0 +1,17 @@
+{
+  "verified": "2026-10-19",
+  "profile": "https://www.facebook.com/people/Sotus-Briedis/61590127793945/",
+  "address": "S. Žukausko g. 15, Kaunas",
+  "phone": "+37065932255",
+  "email": "sotusbriedis5@gmail.com",
+  "assets": {
+    "pizza.jpg": "https://www.facebook.com/photo.php?fbid=122120019021337593",
+    "snacks.jpg": "https://www.facebook.com/photo.php?fbid=122124993855337593",
+    "meal.jpg": "https://www.facebook.com/photo.php?fbid=122123881257337593",
+    "menu.jpg": "https://www.facebook.com/photo.php?fbid=122125002009337593",
+    "logo.jpg": "https://www.facebook.com/photo.php?fbid=122116521561337593"
+  },
+  "notes": "Official promotional artwork, not independently verified documentary food photography. Three distinct food artworks available; no verified interior photos. No current-week lunch post verified.",
+  "image_edit": "2026-10-19: Built-in imagegen removed text, logos and promotional overlays from pizza, snacks and meal source images. Background reconstructed; source food preserved as closely as possible.",
+  "gallery_expansion": "2026-10-19: Three AI-edited enlargements derived from menu.jpg pizza artwork: P03 Pepperoni, P13 Tartufo and P11 Quattro Formaggi. Reconstructed details and background; not documentary photographs."
+}
